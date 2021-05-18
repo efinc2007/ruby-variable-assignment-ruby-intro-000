@@ -1,2 +1,3 @@
+ '../variable.rb'
 greeting
-/variable.rb'
+
