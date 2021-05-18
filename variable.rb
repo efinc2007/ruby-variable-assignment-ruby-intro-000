@@ -1,3 +1,2 @@
  '../variable.rb'
 greeting
-
